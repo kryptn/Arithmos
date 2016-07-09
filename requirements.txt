@@ -1,0 +1,2 @@
+python-memcached==1.58
+six==1.10.0
